@@ -64,7 +64,3 @@ avra main.asm
 ```
 
 Flash the resulting `.hex` to the ATmega128L on the STK300 board.
-
-## Course context
-
-Built for EPFL MICRO210/EE208, Group 10 — deliverables included source code, a technical report, and a demo video.
