@@ -99,7 +99,3 @@ avra main.asm
 ```
 
 Flash the resulting `.hex` file to the ATmega128L on the STK300 board using your preferred programmer (e.g. AVR Dragon, STK500).
-
-## Course context
-
-Built for EPFL MICRO210 / EE208, Group 10. Deliverables for the project included the source code in this repository, a technical report, and a short demo video.
